@@ -10,7 +10,7 @@ This is my **personal portfolio website** built with **React.js** and **Bootstra
 ## 🛠️ Technologies Used  
 - **Frontend:** React.js, Bootstrap  
 - **Backend:** None (Static Portfolio)  
-- **Deployment:** GitHub Pages / Netlify / Vercel *(Update based on your deployment)*  
+- **Deployment:** Netlify
 - **Testing:** Jest, React Testing Library  
 
 ---
